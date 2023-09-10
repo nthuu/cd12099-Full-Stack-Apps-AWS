@@ -18,7 +18,6 @@ To complete this project, you will need to:
 ## Testing
 
 Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
-Sample URL: http://project-2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://file.hstatic.net/200000547241/file/1luffy_6c8b23a6cf254b9ab6ab5221f79db57a_grande.png
 
 ## License
 
